@@ -14,7 +14,7 @@ public class ReadXmlFile {
 
 	public static void main(String[] args) {
 		try {
-			//Test
+			//Test1
 
 			File fXmlFile = new File("./ReadXMLFile.xml");
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
